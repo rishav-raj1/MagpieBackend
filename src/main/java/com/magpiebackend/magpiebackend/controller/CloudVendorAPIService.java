@@ -14,4 +14,5 @@ public class CloudVendorAPIService
     {
         return new CloudVendor("C1", "Vendor 1", "Address One", "xxxxx");
     }
+
 }
